@@ -1,0 +1,2 @@
+# talentlytica
+talentlytica project
